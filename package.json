@@ -1,0 +1,12 @@
+{
+  "name": "Placeholder",
+  "version": "0.1.0",
+  "description": "bot discord french group",
+  "main": "main.js",
+  "repository": "https://github.com/killer62111/Placeholder.git",
+  "author": "killer62111 <killergaming62111@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
